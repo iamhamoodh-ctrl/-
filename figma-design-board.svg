@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F9FB"/><stop offset="1" stop-color="#E9ECF3"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".92"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".38"/></linearGradient>
+  <linearGradient id="orb" x1=".15" y1=".1" x2=".9" y2=".95"><stop stop-color="#FFFFFF"/><stop offset=".4" stop-color="#C7D1F0" stop-opacity=".9"/><stop offset="1" stop-color="#8B9CD1" stop-opacity=".35"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#59658C" flood-opacity=".12"/></filter>
+  <style>
+    .eyebrow{font:700 12px 'DM Sans',sans-serif;letter-spacing:2px;fill:#7B8190}.h1{font:600 66px 'Manrope',sans-serif;letter-spacing:-4px;fill:#171A22}.h2{font:600 30px 'Manrope',sans-serif;letter-spacing:-1.5px;fill:#171A22}.body{font:14px 'DM Sans',sans-serif;fill:#707684}.small{font:11px 'DM Sans',sans-serif;fill:#7A8190}.label{font:700 10px 'DM Sans',sans-serif;letter-spacing:1.5px;fill:#7D8FCB}.brand{font:800 13px 'Manrope',sans-serif;letter-spacing:1.6px;fill:#171A22}
+  </style>
+</defs>
+<rect width="1600" height="1200" fill="#DDE1EA"/>
+<rect x="36" y="36" width="1528" height="1128" rx="28" fill="url(#bg)"/>
+<circle cx="1350" cy="120" r="280" fill="#DDE4FC" opacity=".35"/>
+<text x="84" y="94" class="brand">H ▪ HAMOODH.</text><text x="1516" y="94" text-anchor="end" class="eyebrow">PORTFOLIO DESIGN SYSTEM / 2026</text>
+<!-- Hero -->
+<rect x="70" y="125" width="1460" height="450" rx="24" fill="#F4F5F7" stroke="#FFFFFF" stroke-width="2"/>
+<text x="118" y="188" class="eyebrow">ADVANCED LEVEL STUDENT</text>
+<circle cx="120" cy="218" r="4" fill="#8497D5"/>
+<text x="118" y="277" class="h1">Curious mind.</text><text x="118" y="345" class="h1" fill="#8492BC">Bright future.</text>
+<text x="120" y="390" class="body">Hello, I’m Hamoodh Mohideen — a student building knowledge,</text><text x="120" y="414" class="body">exploring ideas, and preparing for what comes next.</text>
+<rect x="120" y="450" width="174" height="47" rx="24" fill="#171A22"/><text x="143" y="479" font-family="DM Sans" font-size="12" font-weight="600" fill="#FFFFFF">Explore my work  ↘</text>
+<text x="318" y="479" class="body">A little about me ↗</text>
+<!-- orb artwork -->
+<ellipse cx="1150" cy="340" rx="255" ry="120" fill="none" stroke="#BFC8E2" stroke-width="1.5" transform="rotate(-27 1150 340)"/>
+<ellipse cx="1150" cy="340" rx="220" ry="160" fill="none" stroke="#FFFFFF" stroke-width="2" transform="rotate(34 1150 340)"/>
+<ellipse cx="1150" cy="340" rx="270" ry="195" fill="none" stroke="#C7CFE3" stroke-width="1" transform="rotate(-5 1150 340)"/>
+<circle cx="1150" cy="340" r="138" fill="url(#orb)" stroke="#FFFFFF" stroke-width="2" filter="url(#shadow)"/>
+<circle cx="1150" cy="340" r="95" fill="#E9EDF9" fill-opacity=".35" stroke="#FFFFFF" stroke-opacity=".75"/>
+<ellipse cx="1150" cy="340" rx="119" ry="58" fill="none" stroke="#FFFFFF" stroke-width="2" transform="rotate(-37 1150 340)"/>
+<ellipse cx="1090" cy="280" rx="50" ry="17" fill="#FFFFFF" opacity=".65" transform="rotate(-35 1090 280)"/>
+<rect x="1280" y="220" width="180" height="48" rx="15" fill="url(#glass)" stroke="#FFFFFF" filter="url(#shadow)"/><text x="1300" y="249" class="body">✳  Learn by making</text>
+<rect x="900" y="440" width="172" height="48" rx="15" fill="url(#glass)" stroke="#FFFFFF" filter="url(#shadow)"/><circle cx="922" cy="464" r="4" fill="#7E91D2"/><text x="937" y="468" class="body">Ideas in progress</text>
+<!-- Section cards -->
+<text x="84" y="628" class="eyebrow">01 / DESIGN COMPONENTS</text>
+<rect x="80" y="650" width="340" height="225" rx="22" fill="url(#glass)" stroke="#FFFFFF" filter="url(#shadow)"/>
+<text x="108" y="690" class="label">ABOUT / PROFILE</text><text x="108" y="733" class="h2">Learning today.</text><text x="108" y="769" class="h2" fill="#8492BC">Creating tomorrow.</text><text x="108" y="813" class="body">Physical Science · Technology</text><text x="108" y="838" class="small">Tamil · English · Sinhala</text>
+<rect x="445" y="650" width="340" height="225" rx="22" fill="url(#glass)" stroke="#FFFFFF" filter="url(#shadow)"/>
+<text x="473" y="690" class="label">PROJECT / PRODUCT</text><rect x="473" y="710" width="284" height="85" rx="14" fill="#E8ECF7"/><rect x="550" y="725" width="130" height="60" rx="12" fill="#FFFFFF" fill-opacity=".78" stroke="#FFFFFF"/><text x="615" y="755" text-anchor="middle" font-family="Manrope" font-size="23" fill="#6377B4">25:00</text><text x="473" y="825" class="h2" font-size="20">Student Study Timer</text><text x="473" y="849" class="small">Productivity / concept project</text>
+<rect x="810" y="650" width="340" height="225" rx="22" fill="url(#glass)" stroke="#FFFFFF" filter="url(#shadow)"/>
+<text x="838" y="690" class="label">EDUCATION / TIMELINE</text><line x1="858" y1="720" x2="858" y2="826" stroke="#C9D1E8" stroke-width="2"/><circle cx="858" cy="733" r="5" fill="#8093D1"/><circle cx="858" cy="783" r="5" fill="#AAB5D9"/><circle cx="858" cy="825" r="5" fill="#AAB5D9"/><text x="878" y="737" class="h2" font-size="17">2026 · Advanced Level</text><text x="878" y="758" class="small">Physical Science · Results awaited</text><text x="878" y="788" class="h2" font-size="17">2023 · Ordinary Level</text><text x="878" y="809" class="small">School education</text><text x="878" y="830" class="small">Web application development</text>
+<rect x="1175" y="650" width="340" height="225" rx="22" fill="#202433" stroke="#33394A" filter="url(#shadow)"/>
+<text x="1203" y="690" font-family="DM Sans" font-size="10" font-weight="700" letter-spacing="1.5" fill="#AAB9F0">CONTACT / CTA</text><text x="1203" y="737" font-family="Manrope" font-size="27" font-weight="600" fill="#FFFFFF">Let’s make</text><text x="1203" y="771" font-family="Manrope" font-size="27" font-weight="600" fill="#AAB9F0">something meaningful.</text><text x="1203" y="818" font-family="DM Sans" font-size="12" fill="#C3C8D4">Email · Phone · LinkedIn</text><text x="1203" y="843" font-family="DM Sans" font-size="11" fill="#8E9FD9">Contact links ↗</text>
+<!-- tokens -->
+<text x="84" y="925" class="eyebrow">02 / TOKENS & STYLE</text>
+<rect x="80" y="947" width="1420" height="160" rx="22" fill="#FFFFFF" fill-opacity=".48" stroke="#FFFFFF"/>
+<g transform="translate(110 980)">
+  <rect width="60" height="60" rx="14" fill="#F4F5F7" stroke="#D9DDE5"/><text x="0" y="82" class="small">Canvas</text><text x="0" y="101" font-family="DM Sans" font-size="10" fill="#4C5362">#F4F5F7</text>
+  <rect x="150" width="60" height="60" rx="14" fill="#171A22"/><text x="150" y="82" class="small">Ink</text><text x="150" y="101" font-family="DM Sans" font-size="10" fill="#4C5362">#171A22</text>
+  <rect x="300" width="60" height="60" rx="14" fill="#8492BC"/><text x="300" y="82" class="small">Accent</text><text x="300" y="101" font-family="DM Sans" font-size="10" fill="#4C5362">#8492BC</text>
+  <rect x="450" width="60" height="60" rx="14" fill="#FFFFFF" fill-opacity=".55" stroke="#D9DDE5"/><text x="450" y="82" class="small">Glass</text><text x="450" y="101" font-family="DM Sans" font-size="10" fill="#4C5362">White / 55%</text>
+  <text x="620" y="21" class="label">TYPE</text><text x="620" y="52" font-family="Manrope" font-size="24" font-weight="600" fill="#171A22">Manrope</text><text x="620" y="76" class="small">Headlines · 600–800</text><text x="620" y="104" font-family="DM Sans" font-size="18" fill="#171A22">DM Sans</text><text x="760" y="104" class="small">Body · 400–700</text>
+  <text x="970" y="21" class="label">LAYOUT</text><text x="970" y="51" class="body">12-column feel · 1160px max content</text><text x="970" y="76" class="body">24px cards · 1px glass borders</text><text x="970" y="101" class="body">Responsive · keyboard-friendly nav</text>
+</g>
+<text x="84" y="1137" class="small">FIGMA IMPORT BOARD · Drag this SVG into Figma to edit vector elements. Website source: index.html + styles.css + script.js.</text>
+</svg>
